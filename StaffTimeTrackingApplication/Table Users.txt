@@ -1,0 +1,25 @@
+Table: Users
+--------------------------------------------
+| UserID (PK) | Username  | Password | Role |
+--------------------------------------------
+| 1           | staff1    | password | Staff|
+| 2           | staff2    | password | Staff|
+| 3           | manager1  | password | Manager|
+| 4           | manager2  | password | Manager|
+--------------------------------------------
+
+Table: StaffDetails
+----------------------------------------
+| StaffID (PK)| UserID (FK) | FirstName  |
+----------------------------------------
+| 101         | 1           | John       |
+| 102         | 2           | Jane       |
+----------------------------------------
+
+Table: ManagerDetails
+----------------------------------------
+| ManagerID (PK)| UserID (FK) | FirstName|
+----------------------------------------
+| 201           | 3           | Mike     |
+| 202           | 4           | Sarah    |
+----------------------------------------
