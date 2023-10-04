@@ -1,0 +1,10 @@
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\bin\Debug\PunchInOutApp-Iteration1.2.exe.config
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\bin\Debug\PunchInOutApp-Iteration1.2.exe
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\bin\Debug\PunchInOutApp-Iteration1.2.pdb
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\obj\Debug\PunchInOutApp-Iteration1.2.csproj.AssemblyReference.cache
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\obj\Debug\PunchInOutApp_Iteration1._2.Form1.resources
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\obj\Debug\PunchInOutApp_Iteration1._2.Properties.Resources.resources
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\obj\Debug\PunchInOutApp-Iteration1.2.csproj.GenerateResource.cache
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\obj\Debug\PunchInOutApp-Iteration1.2.csproj.CoreCompileInputs.cache
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\obj\Debug\PunchInOutApp-Iteration1.2.exe
+D:\Lasalle College\PunchInOutApp-Iteration1.2\PunchInOutApp-Iteration1.2\obj\Debug\PunchInOutApp-Iteration1.2.pdb
